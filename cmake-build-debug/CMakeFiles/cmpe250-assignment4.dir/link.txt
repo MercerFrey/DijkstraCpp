@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/cmpe250-assignment4.dir/HelpStudents.cpp.o CMakeFiles/cmpe250-assignment4.dir/main.cpp.o  -o cmpe250-assignment4 

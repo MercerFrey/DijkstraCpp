@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/melih/CLionProjects/cmpe250-assignment4-MercerFrey/HelpStudents.cpp
+queue
+-
+set
+-
+HelpStudents.h
+/home/melih/CLionProjects/cmpe250-assignment4-MercerFrey/HelpStudents.h
+
+/home/melih/CLionProjects/cmpe250-assignment4-MercerFrey/HelpStudents.h
+vector
+-
+queue
+-
+iostream
+-
+fstream
+-
+

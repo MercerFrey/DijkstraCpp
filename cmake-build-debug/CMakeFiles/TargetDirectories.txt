@@ -1,0 +1,3 @@
+/home/melih/CLionProjects/cmpe250-assignment4-MercerFrey/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/melih/CLionProjects/cmpe250-assignment4-MercerFrey/cmake-build-debug/CMakeFiles/cmpe250-assignment4.dir
+/home/melih/CLionProjects/cmpe250-assignment4-MercerFrey/cmake-build-debug/CMakeFiles/edit_cache.dir
